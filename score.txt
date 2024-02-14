@@ -1,0 +1,4 @@
+Scores---
+
+# scorefile = open("score.txt","w+")
+# scorefile.write("\nHallo")
